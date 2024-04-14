@@ -18,7 +18,7 @@ fetch(`./data.json`)
 });
 
 
-// Function to list the rank, and description of each NBA Player 
+// Function to list the rank, and description of each breed 
 function listRankAndBreed(data) {
     const dogList = document.getElementById('dogList');
     const descriptionContainer = document.getElementById('breedDescription');
