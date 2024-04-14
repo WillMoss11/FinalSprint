@@ -1,0 +1,197 @@
+{
+    "dogs": [
+
+        {
+            "rank":  1,
+            "breed": "Golden Retrievers",
+            "size":  "large / medium",
+            "coat type": [
+                "long",
+                "dense",
+                "and double-coat"
+            ],
+            "color": "golden fur coat with white embedded within the gold",
+            "temperament": [
+                "loyal",
+                "confident",
+                "protective",
+                "and intelligent"
+            ]
+        },
+        {
+            "rank": 2,
+            "breed": "German Shepherds",
+            "size": "Large",
+            "coat type": [
+                "thick",
+                "medium",
+                "and double-coat"
+            ],
+            "color": [
+                "black",
+                "black and gold",
+                "and buff"
+            ],
+            "temperament": [
+                "friendly if trained correctly",
+                "and eager to please"
+            ]
+        },
+        {
+            "rank": 3,
+            "breed": "Australian Shepherds",
+            "size": "medium",
+            "coat type": [
+                "wavy",
+                "long",
+                "double coat",
+                "and dense"
+            ],
+            "color": [
+                "merle",
+                "black",
+                "red merle",
+                "red tricolor",
+                "black tricolor",
+                "and red"
+            ],
+            "temperament": [
+                "very gentle",
+                "and energetic"
+            ]
+        },
+        {
+            "rank": 4,
+            "breed": "Alaskan Malamutes",
+            "size": "large",
+            "coat type": [
+                "long",
+                "fluffy",
+                "and a double coat"
+            ],
+            "color": "light gray through intermediate shadings to black, sable, and shadings of sable to red",
+            "temperament": [
+                "intelligent",
+                "highly energetic",
+                "and verbal"
+            ]
+        },
+        {
+            "rank": 5,
+            "breed": "Newfoundlands",
+            "size": "giant",
+            "coat type": [
+                "course",
+                "heavy",
+                "and dense"
+            ],
+            "color": "Black, white with black patches, brown, and grey",
+
+            "temperament": [
+                "gentle giants",
+                "affectionate",
+                "protective",
+                "and devoted to their people"
+            ]
+        },
+        {
+            "rank": 6,
+            "breed": "Labrador Retrievers",
+            "size": "medium",
+            "coat type": [
+                "straight",
+                "short",
+                "waterproof",
+                "and double-coat"
+            ],
+            "color": [
+                "black",
+                "chocolate",
+                "yellow",
+                "and gold"
+            ],
+            "temperament": [
+                "gentle",
+                "affectionate",
+                "and loyal"
+            ]
+        },
+        {
+            "rank": 7,
+            "breed": "Border Collies",
+            "size": "medium",
+            "coat type": [
+                "short",
+                "and rough and smooth"
+            ],
+            "color": [
+                "black",
+                "brown",
+                "lilac",
+                "and blue"
+
+            ],
+            "temperament": [
+                "gentle",
+                "affectionate",
+                "friendly",
+                "and loyal"
+            ]
+        },
+        {
+            "rank": 8,
+            "breed": "Akitas",
+            "size": "medium",
+            "coat type": [
+                "thick",
+                "and double-coat"
+            ],
+            "color": [
+                "brindle",
+                "red",
+                "sesame",
+                "and white"
+            ],
+            "temperament": [
+                "friendly",
+                "outgoing",
+                "intelligent",
+                "and independent"
+            ]
+            
+        },
+        {
+            "rank": 9,
+            "breed": "Bernese Mountain dogs",
+            "size": "large",
+            "coat type": [
+                "long",
+                "dense",
+                "and water-resistant"
+            ],
+            "color": [
+                "jet black",
+                "clear white",
+                "and rust"
+            ],
+            "temperament": [
+                "friendly",
+                "outgoing",
+                "loyal",
+                " and affectionate"
+            ]
+           
+        },
+        {
+            "rank": 10,
+            "breed": "Bohemian Shepherds",
+            "size": "anywhere from small to medium",
+            "coat type": "from double-coat with soft, dense undercoat",
+            "color": "found with black coats and tan markings",
+            "temperament": "a loyal companion"
+           
+        }
+    
+    ]
+    
+}
